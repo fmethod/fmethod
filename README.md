@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a Northern Virginia Community College student and I am proud of it.
 <!--
 **fmethod/fmethod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
