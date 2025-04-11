@@ -1,5 +1,8 @@
-## Hi there 👋
-I am a Northern Virginia Community College student and I am proud of it.
+👋 Hi, I'm Flange method!
+🎓 Engineering student | ⚙️ Passionate about technology and problem solving
+💡 Interests: Embedded Systems / Machine Learning / Web Development
+📚 Currently learning: C++, React, ubuntu
+📫 Contact: fm49937@email.vccs.edu
 <!--
 **fmethod/fmethod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
